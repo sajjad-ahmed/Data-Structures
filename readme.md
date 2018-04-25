@@ -2,7 +2,7 @@
 
 As a part of my university course called data structure(CSE220), I created this repo.   
 # Contents includes:
-## Array operations
+## Array operations:
 #### Creating an array
 #### Iterating over the elements of an array
 #### Copying an array
@@ -13,7 +13,8 @@ As a part of my university course called data structure(CSE220), I created this 
 #### Inserting an element into an array
 #### Removing an element from an array
 #### Rotating an array left
-### Rotating an array right
+#### Rotating an array right
+
 ## Circular Array
 ## Linked list
 ## Doubly Linked list
