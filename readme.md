@@ -1,6 +1,5 @@
 # Data structures in java
-
-As a part of my university course called data structure(CSE220), I created this repo.   
+This repository contains all of my lab works of Data Structures Course(CSE221) 
 
 # Contents includes:
 
