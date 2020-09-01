@@ -1,42 +1,54 @@
-# Data structures in java
-This repository contains all of my lab works of Data Structures Course(CSE221) 
+# Basic Data Structures in Java
 
-# Contents includes:
+
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
+
+This repository contains most of my lab works of Data Structures Course(CSE221). The codes can be found inside the *[src folder](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/)*.
+
+
+# Contents:
 
 ## [Array basics](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab01_array_basics)
 
 ## [Array operations](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab03_Array_Operations):
+- Creating an array
+- Iterating over the elements of an array
+- Copying an array
+- Resizing an array
+- Reversing an array
+- Shifing an array left
+- Shifing an array right
+- Inserting an element into an array
+- Removing an element from an array
+- Rotating an array left
+- Rotating an array right
 
-#### Creating an array
+## [Circular Array in java](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab04_Circular_Array)
 
-#### Iterating over the elements of an array
+## [Linked list in java](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab05_LinkedList)
 
-#### Copying an array
+## [Doubly Linked list in java](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab06_DoublyList)
 
-#### Resizing an array
+## [Stack in java](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab07_Stack)
 
-#### Reversing an array
+## [Queue in java](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab09_Queue)
 
-#### Shifing an array left
 
-#### Shifing an array right
+---
 
-#### Inserting an element into an array
+## How to use
+- You can [Fork](https://github.com/sajjad-ahmed/Data-Structures.git) or [download the project as zip](https://codeload.github.com/sajjad-ahmed/Data-Structures/zip/master). Then Uzip and open as IntelliJ project.
+- Otherwise,you can simply use the java codes provided in the `src` folder.
 
-#### Removing an element from an array
+### Clone
 
-#### Rotating an array left
+- Clone this repo to your local machine using `https://github.com/sajjad-ahmed/Data-Structures`
 
-#### Rotating an array right
+---
 
-## [Circular Array](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab04_Circular_Array)
+## License
 
-## [Linked list](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab05_LinkedList)
+- N/A. Open for use.
 
-## [Doubly Linked list](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab06_DoublyList)
 
-## [Stack](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab07_Stack)
 
-## [Queue](https://github.com/sajjad-ahmed/Data-Structures/tree/master/src/lab09_Queue)
-
-{nb: lab 2 and 8 were dedicated for practicing. that's why I haven't included them here}
